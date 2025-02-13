@@ -1,0 +1,34 @@
+📌 First 5 Rows of Dataset:
+             Movie    Genre  Rating    Votes  Release_Year
+0        Inception   Sci-Fi     8.8  2000000          2010
+1          Titanic  Romance     7.8  2200000          1997
+2  The Dark Knight   Action     9.0  2500000          2008
+3     Interstellar   Sci-Fi     8.6  1800000          2014
+4    The Godfather    Crime     9.2  1600000          1972
+
+📌 Dataset Info:
+None
+
+📌 Missing Values in Dataset:
+Movie           0
+Genre           0
+Rating          0
+Votes           0
+Release_Year    0
+dtype: int64
+
+📌 Average Movie Rating: 8.63
+
+📌 Most Common Genre: Sci-Fi
+
+📌 Highest-Rated Movie:
+                      Movie  Rating
+6  The Shawshank Redemption     9.3
+
+📌 Movies Released Per Decade:
+Decade
+1990    6
+2010    5
+2000    3
+1970    1
+
